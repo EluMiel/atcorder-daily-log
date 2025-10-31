@@ -1,2 +1,3 @@
 # atcorder-daily-log
-MY daily AtCoder practice log with solutions and reflections. (problems by AtCoder Inc.)
+
+MY daily AtCoder practice notes in Google Colab.
